@@ -90,7 +90,7 @@
         '    Case Windows.Forms.DialogResult.Cancel
         '       Exit Sub
         'End Select
-        System.Diagnostics.Process.Start("http://tmsn.at/trial-handout.htm")
+        System.Diagnostics.Process.Start("http://tmsn.at/?tools&trial-handout")
         linkBugreport.LinkVisited = True
         Exit Sub
 ShowError:

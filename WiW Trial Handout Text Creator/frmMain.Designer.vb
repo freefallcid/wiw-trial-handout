@@ -68,8 +68,8 @@ Partial Class frmMain
         'SplitContainer1.Panel2
         '
         Me.SplitContainer1.Panel2.Controls.Add(Me.TableLayoutPanel1)
-        Me.SplitContainer1.Size = New System.Drawing.Size(596, 354)
-        Me.SplitContainer1.SplitterDistance = 172
+        Me.SplitContainer1.Size = New System.Drawing.Size(659, 354)
+        Me.SplitContainer1.SplitterDistance = 190
         Me.SplitContainer1.TabIndex = 0
         Me.SplitContainer1.TabStop = False
         '
@@ -78,10 +78,10 @@ Partial Class frmMain
         Me.linkBugreport.AutoSize = True
         Me.linkBugreport.Location = New System.Drawing.Point(12, 331)
         Me.linkBugreport.Name = "linkBugreport"
-        Me.linkBugreport.Size = New System.Drawing.Size(155, 13)
+        Me.linkBugreport.Size = New System.Drawing.Size(169, 13)
         Me.linkBugreport.TabIndex = 28
         Me.linkBugreport.TabStop = True
-        Me.linkBugreport.Text = "http://tmsn.at/trial-handout.htm"
+        Me.linkBugreport.Text = "http://tmsn.at/?tools&&trial-handout"
         '
         'lblWeeks
         '
@@ -190,7 +190,7 @@ Partial Class frmMain
         Me.TableLayoutPanel1.RowCount = 2
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 15.0!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle())
-        Me.TableLayoutPanel1.Size = New System.Drawing.Size(420, 354)
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(465, 354)
         Me.TableLayoutPanel1.TabIndex = 0
         '
         'dateCalendar
@@ -214,7 +214,7 @@ Partial Class frmMain
         '
         Me.Label2.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(252, 12)
+        Me.Label2.Location = New System.Drawing.Point(297, 12)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(155, 13)
         Me.Label2.TabIndex = 36
@@ -224,7 +224,7 @@ Partial Class frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(596, 354)
+        Me.ClientSize = New System.Drawing.Size(659, 354)
         Me.Controls.Add(Me.SplitContainer1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
