@@ -11,10 +11,10 @@ Imports System.Runtime.InteropServices
 ' Die Werte der Assemblyattribute überprüfen
 
 <Assembly: AssemblyTitle("WiW Trial Handout Text Creator")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("")> 
-<Assembly: AssemblyCopyright("2013 Dominic Reich")> 
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("Dominic Reich")>
+<Assembly: AssemblyProduct("")>
+<Assembly: AssemblyCopyright("© 2013 Dominic Reich")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)> 
