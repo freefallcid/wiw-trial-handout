@@ -78,10 +78,10 @@ Partial Class frmMain
         Me.linkBugreport.AutoSize = True
         Me.linkBugreport.Location = New System.Drawing.Point(12, 331)
         Me.linkBugreport.Name = "linkBugreport"
-        Me.linkBugreport.Size = New System.Drawing.Size(169, 13)
+        Me.linkBugreport.Size = New System.Drawing.Size(46, 13)
         Me.linkBugreport.TabIndex = 28
         Me.linkBugreport.TabStop = True
-        Me.linkBugreport.Text = "http://tmsn.at/?tools&&trial-handout"
+        Me.linkBugreport.Text = "Website"
         '
         'lblWeeks
         '
