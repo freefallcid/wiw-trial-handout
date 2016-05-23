@@ -27,13 +27,13 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://tools.dominicreich.com/WiW-Trial-Handout-Generator/</InstallUrl>
     <UpdateUrl>http://tools.dominicreich.com/WiW-Trial-Handout-Generator/</UpdateUrl>
-    <SupportUrl>http://tmsn.at/%3ftools&amp;trial-handout</SupportUrl>
+    <SupportUrl>http://klamm.io</SupportUrl>
     <ErrorReportUrl>https://github.com/freefallcid/wiw-trial-handout/issues</ErrorReportUrl>
     <ProductName>WiW Trial Handout Generator</ProductName>
     <PublisherName>Dominic Reich</PublisherName>
     <SuiteName>WiW Tools</SuiteName>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
