@@ -27,7 +27,7 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://tools.dominicreich.com/WiW-Trial-Handout-Generator/</InstallUrl>
     <UpdateUrl>http://tools.dominicreich.com/WiW-Trial-Handout-Generator/</UpdateUrl>
-    <SupportUrl>http://klamm.io</SupportUrl>
+    <SupportUrl>https://dominicreich.com</SupportUrl>
     <ErrorReportUrl>https://github.com/freefallcid/wiw-trial-handout/issues</ErrorReportUrl>
     <ProductName>WiW Trial Handout Generator</ProductName>
     <PublisherName>Dominic Reich</PublisherName>
